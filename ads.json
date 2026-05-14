@@ -1,0 +1,10 @@
+{
+  "inter": [
+    {"image": "https://i.postimg.cc/gkMhWMH6/read.jpg", "link": "https://www.facebook.com/"},
+    {"image": "https://i.postimg.cc/C5rxW2pp/spider.png", "link": "https://www.linkedin.com/"}
+  ],
+  "banner": [
+    {"image": "https://i.postimg.cc/bwD9Fcfy/1.png", "link": "https://www.facebook.com/"},
+    {"image": "https://i.postimg.cc/brV13L6D/2.png", "link": "https://www.linkedin.com/"}
+  ]
+}
