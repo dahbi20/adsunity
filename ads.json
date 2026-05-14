@@ -1,10 +1,14 @@
 {
   "inter": [
-    {"image": "https://i.postimg.cc/BnB04FXZ/Screenshot.png", "link": "https://www.amazon.com/dp/B0DPVQR3D8"},
-    {"image": "https://i.postimg.cc/C5rxW2pp/spider.png", "link": "https://play.google.com/store/apps/details?id=com.fppl.subway.runner.game"}
+    {"image": "https://i.postimg.cc/ZnkhDTD0/screns00001.png", "link": "https://www.amazon.com/dp/B0DPVQR3D8"},
+    {"image": "https://i.postimg.cc/BZD3PKXD/screns00002.png", "link": "https://www.amazon.com/dp/B0DPRBZJR5"},
+    {"image": "https://i.postimg.cc/SNfpDbLp/screns00003.png", "link": "https://www.amazon.com/dp/B0FGFS6YTD"},
+    {"image": "https://i.postimg.cc/vZPww7Sv/screns00004.png", "link": "https://www.amazon.com/dp/B0DP84JBC7"}
   ],
   "banner": [
-    {"image": "https://i.postimg.cc/rFrCtF94/blo512-copy.png", "link": "https://www.facebook.com/"},
-    {"image": "https://i.postimg.cc/brV13L6D/2.png", "link": "https://www.linkedin.com/"}
+    {"image": "https://i.postimg.cc/ZnkhDTD0/screns00001.png", "link": "https://www.amazon.com/dp/B0DPVQR3D8"},
+    {"image": "https://i.postimg.cc/BZD3PKXD/screns00002.png", "link": "https://www.amazon.com/dp/B0DPRBZJR5"},
+    {"image": "https://i.postimg.cc/SNfpDbLp/screns00003.png", "link": "https://www.amazon.com/dp/B0FGFS6YTD"},
+    {"image": "https://i.postimg.cc/vZPww7Sv/screns00004.png", "link": "https://www.amazon.com/dp/B0FGFS6YTD"}
   ]
 }
